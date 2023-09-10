@@ -38,9 +38,6 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>
-                                ..\..\..\servers\1.20.1\plugins
-                            </outputDirectory>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
                         </configuration>
                     </execution>
